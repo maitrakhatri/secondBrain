@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Second Brain",
+    "author": "Maitra Khatri",
+    "version": "1.0.0",
+    "description": "Replace new tab screen with your saved quotes and knowledge bits.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
